@@ -177,3 +177,14 @@ html {
 }
 
 H1 { text-align: center }
+
+
+#order-accordian-heading {
+    color: white;
+    background: #000000;
+    border-radius: 4px;
+}
+
+#order-accordian-title {
+    color: white;
+}
